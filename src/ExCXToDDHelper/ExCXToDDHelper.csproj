@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>RKSoftware.ExCXToDDHelper</RootNamespace>
+    <AssemblyName>RKSoftware.ExCXToDDHelper</AssemblyName>
+    <Authors>mishizaki</Authors>
+    <Company>rksoftware</Company>
+    <Copyright>m-ishizaki</Copyright>
+    <Description>This library converts xlsx file from CX to DD.</Description>
+    <PackageProjectUrl>https://github.com/m-ishizaki/ExCXToDDHelper</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/m-ishizaki/ExCXToDDHelper</RepositoryUrl>
+    <PackageTags>ExCXToDDHelper</PackageTags>
+    <PackageLicenseUrl>https://github.com/m-ishizaki/ExCXToDDHelper/blob/master/LICENSE</PackageLicenseUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>
